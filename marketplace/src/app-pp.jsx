@@ -15,10 +15,12 @@ const products = [
   },
   {
     id: 2,
-    title: "Chamber of Secrets",
+    title: "Magna Carta",
     description:
-      "Harry returns to Hogwarts for his second year when a series of mysterious attacks puts students in danger and reveals the dark history of the school.",
-    image: "/movies/movie2.jpg",
+      "The original Magna Carta, established in the year 1215 much to King John's dismay",
+    image: "/public/magna-carta.jpg",
+    authenticity: False,
+    price: 2200,
   },
   {
     id: 3,
@@ -28,11 +30,13 @@ const products = [
     image: "/movies/movie3.jpg",
   },
   {
-    id: 4,
-    title: "Goblet of Fire",
+     id: 2,
+    title: "Magna Carta",
     description:
-      "Harry is unexpectedly selected to compete in the dangerous Triwizard Tournament. Faced with deadly tasks, political tension, and growing darkness, this year marks a turning point where the wizarding world begins to change forever.",
-    image: "/movies/movie4.jpg",
+      "The original Magna Carta, established in the year 1215 much to King John's dismay",
+    image: "/public/magna-carta.jpg",
+    authenticity: False,
+    price: 2200,
   },
 ];
 
