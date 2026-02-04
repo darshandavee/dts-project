@@ -30,13 +30,13 @@ const products = [
     image: "/movies/movie3.jpg",
   },
   {
-     id: 2,
-    title: "Magna Carta",
+     id: 4,
+    title: "Holographic flux3000 Watch",
     description:
-      "The original Magna Carta, established in the year 1215 much to King John's dismay.",
-    image: "/public/magna-carta.jpg",
-    authenticity: False,
-    price: 2200,
+      "Model flux3000. Includes display of time from any era and location. OK condition. Box not included",
+    image: "/public/watch.png",
+    authenticity: True,
+    price: 9800,
   },
 ];
 
